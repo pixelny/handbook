@@ -1,12 +1,10 @@
 # Benefits & Perks
 
-Since the majority of Pixel employees work in the US, this section is written with that as the default. Some benefits don't make sense in other countries, like private health insurance in other first-world countries with a well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the US as it makes sense, though.
-
 ## Benefits
 
 ### Health Insurance
 
-Health insurance is provided in the US via Blue Cross Blue Shield PPO. The company pays 75% of the premium and the employee pays the other 25%. Open enrollment is in November every year.  Marriages and domestic partnerships are covered equally.
+Health insurance is provided in the US via Oscar Health. The company pays 50% of the premium and the employee pays the other 50%. Open enrollment is in November every year.  Marriages and domestic partnerships are covered equally.
 
 #### Employee-portion of medical insurance premium per pay period
 
@@ -32,11 +30,11 @@ The FSA is an account where you can set aside pre-tax money for out-of-pocket me
 
 ### Vacations & Holidays
 
-Pixel offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the standard national holidays every year. This is a guideline, so if you need a couple extra days, no problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any extended absence, so they’re not left in the lurch.
+Pixel offers 3 weeks of paid vacation and the standard national holidays every year. Make sure to check with your team before taking any extended absence.
 
 ### Summer Hours
 
-During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who've just been hired may have to complete a training program per their team lead to be eligible).
+During summer, half days on Fridays, aka "summer hours". Summer hours are in effect from May 1 through August 31 each year.  (An employee who've just been hired may have to complete a training program per their team lead to be eligible).
 
 ### Sabbatical
 
@@ -44,55 +42,34 @@ Every three years, employees are eligible to take a one-month-long paid sabbatic
 
 ### Parental Leave
 
-When you welcome a new child (birthed or adopted), Pixel encourages you to take up to 16 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
+When you welcome a new child (birthed or adopted), Pixel encourages you to take up to 12 weeks leave for primary caregivers and up to 6 weeks leave as secondary caregiver at 100% paid salary. You may also choose to take an additional 8 weeks leave unpaid.
 
 ### 401K Retirement Plan
 
-Our 401K is through Vanguard. Pixel matches dollar-for-dollar up to 6% of your salary that you contribute to the plan.  For instance, an employee who earns $100,000 can contribute any amount towards the 401K, however Pixel will only match the first 6% or $6,000/year of those contributions. You are eligible to enroll in the 401K plan with your first paycheck.
-
-### Employee Liquidity Pool
-
-If Pixel is ever sold or part of an IPO, tenured employees will be eligible to receive a portion of 5% of the value of the company. That 5% would be divided into units, based on the number of employees we have at the time. People who were Pixelers for less than 1 year would receive 0 units, someone employed 1 year would receive 1 unit, and so on, until you're fully vested at 5 years for 5 units. 
+Pixel currently does not offer a 401K matching plan. We ofset that by paying a higher salary to allow employees to make their own financial choices.
 
 ## Perks
 
 ### Fitness Allowance
 
-Pixel will pay up to $100/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
+Pixel will pay up to $25/month for your gym membership, yoga studio membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you. 
 
-### Massage Allowance
+### Streaming Music
 
-Every month, you can expense up to $100 towards a massage, as part of Pixel's health and wellness benefits package.  
-
-### Community Supported Agriculture (CSA) Allowance
-
-Fresh, organic, local fruits and vegetables are great to have on-hand, so we'd also like to offer a CSA membership to you. Finding a local provider will be up to you, but you can expense the cost of a seasonal or annual CSA share as an employee benefit, up to $1,000/year.
+A Spotify Premium account is available to each employee upon request.  
 
 ### Continuing Education Allowance
 
-If you're interested in taking classes that you feel improve you professionally or personally, you have a $1,000 annual stipend to do so (annual = a 12 month period, not necessarily 2017 or 2018). Some people take classes directly related to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to learn something that you feel enriches you as a person and employee.
+If you're interested in taking classes that you feel improve you professionally or personally, you have a $500 annual stipend to do so (annual = a 12 month period, not necessarily 2017 or 2018). Some people take classes directly related to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to learn something that you feel enriches you as a person and employee.
 
 ### Matching Charitable Gifts
 
-When you donate money to a qualified charity, Pixel will make a matching gift to that charity on your behalf. Pixel will match up to $2,000 per year, per employee.  If you donate to more than one organization annually, that's okay!  For example, if I give $1,000/year to the Red Cross and $1,000/year to NPR, Pixel will match both donations, dollar for dollar.  If you donate more than $2,000/year, you are officially awesome, but Pixel will only match $2,000 of your awesomeness.
-
-### Pixel Holiday Gift
-
-Every year, at the end of the year, Pixel generally gives a thank-you gift to the employees. Employees who have been at Pixel for one year or less get one gift (last year: a night on the town in his/her hometown), and longer tenured employees get a more elaborate gift (last year: a paid vacation). We switch up the delivery of these every year, so you're always in for a nice surprise.
+When you donate money to a qualified charity, Pixel will make a matching gift to that charity on your behalf. Pixel will match up to $1,000 per year, per employee.
 
 ## Practical assistance
 
-### Home Office Set-up
-
-Since you work remotely, we want to make sure your home office is comfortable. You can expense up to $1,000 to furnish your home office, every three years.
-
-### Coworking Space Stipend
-
-Pixel will pay up to $100/month for you to use towards renting coworking space in your city.  Please make sure you're using a true coworking space that's meant solely for working, not a club or social space.
-
 ### Expense Account
 
-If you work in the US, you should carry a Pixel American Express card in your name. You can
-use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt, and send the photo to 37receipts@gmail.com. If you can’t use the Amex and have to use a personal card, send the receipt directly to Andrea for reimbursement.
+If you work in the US, you should carry a Pixel American Express card in your name. You can use the card for any work-related expenses, such as travel, software, or office supplies. If you have any doubts about whether or not to expense something, just ask. When you do buy something with the card, get a receipt! Take a photo of that receipt and send it to Expensify. If you can’t use the Amex and have to use a personal card, send the receipt directly to Andrea for reimbursement.
 
 Pixel has no expense policy. We trust our employees to spend money wisely. If you’re booking a flight, you don’t need to buy the cheapest, 2-layover redeye; buy the convenient, well-priced seat. If you’re attending a conference on behalf of Pixel, sure, Pixel will buy your meals. Just try to stay away from caviar and champagne at dinner (okay, maybe once if you have a killer day to celebrate). If you have questions about what “spend it wisely” means, just ask!

@@ -43,7 +43,7 @@ If your country participates in the Visa Waiver Program (VWP), then you can appl
 
 If your country does not participate in the Visa Waiver Program or you are not eligible for an ESTA, you'll need to apply for a B-1 business visitor visa… the long way.
 
-We'll work with you through this process. Start early, as soon as we have dates for a meetup or conference. Visa appointments and processing can take weeks to months. Ping Andrea as soon as you know that you'll need a visa.
+We'll work with you through this process. Start early, as soon as we have dates for a meetup or conference. Visa appointments and processing can take weeks to months. Ping Jen as soon as you know that you'll need a visa.
 
 ### Trusted Traveler Programs
 
@@ -58,13 +58,13 @@ To substantiate the purpose of your travel, we provide an invitation letter that
 
 "Doing business"—e.g. attending a business meeting or conference—is allowed under the business visitor visa (and visa waiver), but "doing work" is not. That'd require a temporary work visa.
 
-You'll need a new letter each time you travel. Contact Andrea to get one drafted.
+You'll need a new letter each time you travel. Contact Jen to get one drafted.
 
 ## Company Security at the Border
 
 When you enter the US, you may be asked to unlock your phone or laptop for search, possibly exposing sensitive company data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to safeguard our data.
 
-(What's a work device? Anything you have company data on: your laptop where you work with Basecamp source code; your tablet where you read Basecamp email; your phone where you use the Basecamp app; etc.)
+(What's a work device? Anything you have company data on: your laptop where you work with Pixel source code; your tablet where you read Pixel email; your phone where you use the Pixel app; etc.)
 
 ### TL;DR: Don't Travel With Work Data
 
@@ -74,25 +74,25 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 ## Checklist: Before You Travel
 
 * Let us know! Share your travel plans and when you expect to arrive in the US.
-* Request an invitation letter from Andrea. She'll draft a letter specific to your visit.
+* Request an invitation letter from Jen. She'll draft a letter specific to your visit.
 * Update your ESTA online with your travel info and the hotel address: Crowne Plaza Chicago West Loop, 733 West Madison, Chicago IL 60661.
 * Ensure you have your passport, ESTA, invitation letter, and travel details all in order.
-* Put Andrea and our attorney on speed dial.
-  * If you run into general travel issues or have any questions, contact Andrea LaRowe.
-  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Pflanz (get phone number from Andrea). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
+* Put Jen and our attorney on speed dial.
+  * If you run into general travel issues or have any questions, contact Jen LaRowe.
+  * If you're detained or encounter some other serious customs headache, contact our attorney directly: Jennifer Pflanz (get phone number from Jen). Customs and Border Protection (CBP) is not required to allow you to contact an attorney, but Jennifer is your first call if possible.
 * 1Password
-  * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Basecamp team vault instead. You have a personal vault inside the Basecamp team which is perfect for those logins.
-  * Ask in SIP for someone to remove you from the Basecamp team for 1Password so you no longer have access to Basecamp logins and passwords. Let them know when to reenable your access.
-  * If you don't get this arranged with SIP in time for travel, remove the Basecamp team from your 1Password apps on your phone, tablet, and laptop so you no longer have access to Basecamp logins and passwords.
+  * Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Pixel team vault instead. You have a personal vault inside the Pixel team which is perfect for those logins.
+  * Ask in SIP for someone to remove you from the Pixel team for 1Password so you no longer have access to Pixel logins and passwords. Let them know when to reenable your access.
+  * If you don't get this arranged with SIP in time for travel, remove the Pixel team from your 1Password apps on your phone, tablet, and laptop so you no longer have access to Pixel logins and passwords.
 * Email apps
-  * If you use an email app rather than Gmail in your browser, remove the @basecamp.com account.
+  * If you use an email app rather than Gmail in your browser, remove the @pixel-ny.com account.
 * Clear browser cookies, logging you out of all work sites.
   * Laptops: Clear cookies in Chrome, Safari, etc.
   * [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
   * [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings > Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-* Basecamp source code.
-  * Make an encrypted archive of your Basecamp git repos so you can download and restore it after you're through customs.
-  * Delete all Basecamp source code from your laptop.
+* Pixel source code.
+  * Make an encrypted archive of your Pixel git repos so you can download and restore it after you're through customs.
+  * Delete all Pixel source code from your laptop.
 * Other sensitive documents.
   * Same deal as source code. Make an encrypted backup and remove from your laptop.
 * Dropbox
@@ -106,20 +106,20 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 * Have your passport, ESTA, invitation letter, and hotel address ready.
 * Ensure your devices are charged up and turned on. Customs may balk at a bricked phone or laptop.
 * Common questions:
-  * Purpose of your visit? Here for a business meeting in Chicago.
-  * Here to do work? Nope! Here on business, meeting with Basecamp.
-  * Where are you staying? Crowne Plaza Chicago West Loop. 733 West Madison, Chicago IL 60661. Front desk: +1 312 829 5000.
+  * Purpose of your visit? Here for a business meeting in New York.
+  * Here to do work? Nope! Here on business, meeting with Pixel.
+  * Where are you staying? State your hotel or AirBnB address.
 * Be straighforward and truthful. You're legit! No need to be cagey or misleading.
 
 ## Checklist: When You Arrive
 
-* Let us know! Mention in the meetup Campfire when you're through customs and have arrived in the US.
+* Let us know! Mention in the meetup Slack when you're through customs and have arrived in the US.
 * Touch ID: Reenable on your phone, tablet, and laptop.
 * Dropbox: Log in and reconnect, but only if needed during travel.
-* Basecamp app: Reinstall on your phone, tablet, and laptop.
-* 1Password: Add the Basecamp team back to your apps. Holler in SIP and we'll add you back to the Basecamp team.
-* Email apps: Add your @basecamp.com account again.
-* Basecamp source code: Download and restore the archive of your Basecamp git repos, but only if needed during travel.
+* Pixel app: Reinstall on your phone, tablet, and laptop.
+* 1Password: Add the Pixel team back to your apps. Holler in SIP and we'll add you back to the Pixel team.
+* Email apps: Add your @pixel-ny.com account again.
+* Pixel source code: Download and restore the archive of your Pixel git repos, but only if needed during travel.
 * Other sensitive documents: Download and restore, but only if needed during travel.
 
 ## Checklist: When You Return
@@ -129,6 +129,6 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 
 ## Any Questions?
 
-Hitting a snag or have any questions? Ping Jeremy or Andrea and we can help.
+Hitting a snag or have any questions? Ping Jeremy or Jen and we can help.
 
 You're welcome to edit and improve this document yourself, too. Please do!
